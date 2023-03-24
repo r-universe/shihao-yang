@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "argo"]
+	path = argo
+	url = https://github.com/cran/argo
+	shallow = true
+	registered = true
+[submodule "magi"]
+	path = magi
+	url = https://github.com/cran/magi
+	shallow = true
+	registered = true
